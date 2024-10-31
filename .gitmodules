@@ -1,0 +1,7 @@
+[submodule "yuvalro/themes/PaperMod"]
+	path = yuvalro/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "yuvalro/public"]
+	path = yuvalro/public
+	url = https://github.com/yuvalroo/yuvalroo.github.io.git
+	branch = main
