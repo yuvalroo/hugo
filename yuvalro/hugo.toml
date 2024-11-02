@@ -1,0 +1,17 @@
+baseurl = "https://www.yuvalro.com/"
+title = "yuvalro"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "portfolio/"
+  url = "portfolio/"
+  
+  [[params.navlinks]]
+  name = "blog/"
+  url = "blog/"
